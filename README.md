@@ -44,8 +44,8 @@ create table employee
 );
 
 insert into employee values('E001', 'password' , 'admin' ,
-         'kuldeep, '8512099003',
-          'kuldeep@gmail.come','activated');
+         'user, '8510000003',
+          'user@gmail.come','activated');
 
 
 create table prospect
